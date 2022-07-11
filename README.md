@@ -1,6 +1,6 @@
 The basics:
 
-- 👋 Hi, I’m Soap
+- 👋 Hi, I’m Sophie
 - 👀 I’m interested in video games and websites
 - 🌱 I’m currently learning a variety of coding languages
 - 📫 How to reach me: Email - soapsoap373@gmail.com
