@@ -1,7 +1,7 @@
 The basics:
 
 - 👋 Hi, I’m Sophie
-- 👀 I’m interested in video games, cybersecurity, and making websites
+- 👀 I’m interested in video games, cybersecurity, and webpage design
 - 🖼️ Pfp credit: https://picrew.me/image_maker/1473879/
 
 Experience:
