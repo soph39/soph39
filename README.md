@@ -4,7 +4,7 @@ The basics:
 - 👀 I’m interested in cybersecurity and webpage design
 - 🖼️ Pfp credit: https://picrew.me/image_maker/1473879/
 
-Experience:
+General experience:
 
 - 2 high school classes on C++
 - 1 high school class on webpage design (HTML and CSS)
