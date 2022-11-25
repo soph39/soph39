@@ -11,8 +11,3 @@ Experience:
 - High school robotics club programming team (Javascript)
 - Middle school robotics club
 - Middle school Computer Engineering class (3D modeling, robotics, coding, woodshop, etc.)
-
-<!---
-Soap-Man/Soap-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
