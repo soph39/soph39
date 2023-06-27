@@ -11,3 +11,4 @@ General experience:
 - High school robotics club programming team (Javascript)
 - Middle school robotics club
 - Middle school Computer Engineering class (3D modeling, robotics, coding, woodshop, etc.)
+- Current internship with an IT company
