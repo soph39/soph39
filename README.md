@@ -6,7 +6,6 @@ The basics:
 
 General experience:
 - Job in computer repair
-- Python
 - C++
 - Java
-- HTML & C++
+- HTML & CSS
