@@ -1,6 +1,6 @@
 The basics:
 
-- 👋 Hi, I’m Sophie
+- 👋 Hi, I’m Sophie (Sophia in some places)
 - 🖼️ Pfp credit: https://picrew.me/image_maker/1473879/
 
 General experience:
